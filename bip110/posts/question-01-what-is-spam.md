@@ -1,6 +1,6 @@
 # What is spam?
 
-![In 47 BCE, Cleopatra celebrates the birth of her son by minting new coin — and Luke Dash the Elder takes a stand against spam.](../pics/47BCE.png)
+![In 47 BCE, Cleopatra celebrates the birth of her son by minting new coin — and Luke Dash the Elder takes a stand against spam.](../pics/cleopatra-coin-47bce.png)
 
 BIP-110 rests on a deceptively simple premise: Bitcoin is "permissionless as money, not as data storage." The proposal treats this distinction as self-evident. But is it?
 

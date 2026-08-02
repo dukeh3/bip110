@@ -1,6 +1,6 @@
 # Should Bitcoin be virtuous?
 
-![1793, Year I — Luke Dash, Citoyen du Peuple, allies with Robespierre to protect the virtue of money. Ocean Minting starts issuing only Virtues Coins.](../pics/1793.png)
+![1793, Year I — Luke Dash, Citoyen du Peuple, allies with Robespierre to protect the virtue of money. Ocean Minting starts issuing only Virtues Coins.](../pics/jacobin-virtues-coin-1793.png)
 
 There is a premise running through the BIP-110 debate that rarely gets examined directly: the idea that Bitcoin should be *virtuous* — that the protocol itself should resist use cases that some participants find objectionable.
 
@@ -33,6 +33,18 @@ Consider two things that BIP-110 proponents point to as evidence of Bitcoin's co
 **Iran and the Strait of Hormuz.** Iran, cut off from SWIFT and the Western banking system by sanctions, has turned to Bitcoin to collect transit fees from vessels passing through the Strait of Hormuz — one of the world's most critical shipping lanes. To the sanctions enforcer, this is evasion. To the Bitcoiner, this is the entire point. A sovereign nation, excluded from the financial system by a rival power, found that Bitcoin's permissionless nature allowed it to continue participating in global trade. This is not Bitcoin failing. This is Bitcoin succeeding at exactly what it promised: money that no single authority can censor.
 
 Both examples are uncomfortable for people who want Bitcoin to serve only uses they approve of. But that discomfort is the price of neutrality. A system that is truly permissionless will inevitably be used by people and for purposes that some participants find objectionable. If it could not be, it would not be permissionless — it would just be another system with gatekeepers.
+
+## Process, not virtue
+
+There is another claim, sometimes spoken and sometimes merely implied, that runs through the BIP-110 camp: that the *right people* should steer Bitcoin. That those who truly understand Bitcoin's purpose — its virtuous guardians — have a special authority to decide what the protocol should and should not allow.
+
+This is a fallacy. Bitcoin has never worked that way. Bitcoin works through *process*, not through the personal virtue of its participants.
+
+The BIP process is open. Anyone can propose a change. The proposal is evaluated on its technical merits, debated publicly, and ultimately adopted or rejected by the network of node operators who choose to run the software. At no point does the process ask whether the proposer is a good person, whether they have the right intentions, or whether they sufficiently love Bitcoin. It asks whether the proposal is sound.
+
+This is by design. Satoshi did not build Bitcoin around a council of the virtuous. He built it around cryptographic proof, transparent rules, and voluntary consensus. The system works precisely because it does not depend on the character of its participants — it depends on the incentive structure and the open process.
+
+When BIP-110 proponents suggest that critics lack the standing to participate in the debate — that questioning the proposal reveals a failure to understand Bitcoin — they are substituting virtue for process. They are saying: trust us, we know what Bitcoin is for. But Bitcoin was built so that nobody has to trust anybody. The moment steering Bitcoin becomes a matter of who is virtuous enough to have a voice, the transparent process that made Bitcoin trustworthy is already dead.
 
 ## Virtue is always subjective
 
