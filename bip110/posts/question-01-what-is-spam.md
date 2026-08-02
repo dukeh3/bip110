@@ -20,6 +20,14 @@ Satoshi embedded a newspaper headline in the genesis block. OP_RETURN has existe
 
 The question that BIP-110 asks — "what is spam?" — has no clean answer, because the boundary between monetary data and non-monetary data has never been clean. A coin bearing Cleopatra's face is data. A transaction tagging an invoice number is data. The genesis block's embedded headline is data. If these are not spam, then "spam" cannot simply mean "non-monetary data on the blockchain."
 
+## Restriction does not work
+
+Even on its own terms, BIP-110's approach fails. The proposal acknowledges that data can be spread across multiple fields to circumvent size limits, but dismisses this as costly and obfuscated. In practice, the cost of circumvention is trivial. Alternative embedding techniques already exist, and the Ordinals project itself has a pull request ready to merge that routes around the proposed restrictions.
+
+This is not a theoretical concern — it is an arms race that BIP-110 cannot win. Every restriction invites a workaround. Every workaround invites a tighter restriction. The end state is a protocol encrusted with ad-hoc rules that burden legitimate users while failing to stop determined data embedders. This is the same pattern that made firewall-based internet censorship a losing strategy: you can make it inconvenient, but you cannot make it impossible, and the collateral damage to legitimate use grows with each round.
+
+If data embedding cannot be prevented — and BIP-110's own rationale concedes that it cannot — then the question is not how to ban it, but how to accommodate it in a way that minimises harm to the network.
+
 ## The right question
 
 The productive question is not *whether* Bitcoin should carry user data — it always has, from block zero. And it is not *whether* messaging should be part of money — it always has been, from the first coin struck with a king's face.
